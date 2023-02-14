@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($STRUEKNOWLEDGE + 128))
+echo $(($TRUEKNOWLEDGE + 128))
